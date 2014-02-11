@@ -2,5 +2,5 @@ The Raven
 
 By Edgar Allen Poe
 
-Once upon a midnight dreary, while I pondered weak and weary
+Once upon a midnight dreary, while I pondered weak and weary,
 Over many a quaint and curious volume of forgotten lore
